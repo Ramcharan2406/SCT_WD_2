@@ -24,11 +24,11 @@ An interactive and user-friendly stopwatch web application built using HTML, CSS
 
 ## Technologies Used
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
-*JavaScript 
+* JavaScript 
 
 
 
@@ -46,11 +46,11 @@ stopwatch-project
 
 ##How it works
 
-*JavaScript event listeners handle Start, Pause, Reset, and Lap button actions
+* JavaScript event listeners handle Start, Pause, Reset, and Lap button actions
 
-*performance. now() is used to calculate precise elapsed time and requestAnimationFrame() ensures smooth and efficient timer updates
+* performance. now() is used to calculate precise elapsed time and requestAnimationFrame() ensures smooth and efficient timer updates
 
-*The Lap feature dynamically creates and appends list items to record timestamps
+* The Lap feature dynamically creates and appends list items to record timestamps
 
 
 ---
@@ -58,11 +58,11 @@ stopwatch-project
 
 ## Learning Outcomes
 
-*Gained hands on experinece with DOM manipulation.
+* Gained hands on experinece with DOM manipulation.
 
-*Improved understaning of Event handling in javascript.
+* Improved understaning of Event handling in javascript.
 
-*Implemented dynamic UI updates using DOM manipulation.
+* Implemented dynamic UI updates using DOM manipulation.
 
 
 ---
